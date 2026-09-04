@@ -8,7 +8,7 @@ Most of my professional engineering work has lived in private company repositori
 
 ## Selected public projects
 
-- **[Computer-Use Automation System](https://github.com/bgivenb/interface-ai-computer-use)** — Turns a model-guided browser discovery run into a typed, reviewable capability, then replays it deterministically with policy guardrails, evidence, and same-session human handoff.
+- **[Computer-Use Automation System](https://github.com/bgivenb/computer-use-automation)** — Turns a model-guided browser discovery run into a typed, reviewable capability, then replays it deterministically with policy guardrails, evidence, and same-session human handoff.
 - **[Remixer](https://github.com/bgivenb/remixer)** — A local desktop app demonstrating end-to-end product ownership across media analysis, machine-learning inference, packaging, and release engineering.
 - **[EasyMeter](https://github.com/bgivenb/EasyMeter)** — A C++/JUCE desktop plugin demonstrating real-time data visualization, pass-through guarantees, cross-platform CI, and native processor tests.
 
