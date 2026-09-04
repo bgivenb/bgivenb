@@ -1,14 +1,16 @@
 # Given Borthwick
 
-Engineering leader and hands-on product builder focused on AI-native systems, regulated fintech, developer platforms, and reliable production software. I work where product judgment, technical architecture, and accountable delivery meet.
+Engineering leader and hands-on product builder focused on AI-native fintech, developer platforms, and reliable production systems. I work where product judgment, technical architecture, regulated workflows, and accountable delivery meet.
+
+I currently build at **[evryLO](https://evrylo.com)**, creating loan-officer tools for the agentic era.
 
 Most of my professional engineering work has lived in private company repositories. The public repositories below are independent hobby projects—not employer or client code—and show how I explore, build, test, document, and ship software.
 
-## Selected hobby projects
+## Selected public projects
 
 - **[Computer-Use Automation System](https://github.com/bgivenb/interface-ai-computer-use)** — Turns a model-guided browser discovery run into a typed, reviewable capability, then replays it deterministically with policy guardrails, evidence, and same-session human handoff.
-- **[Remixer](https://github.com/bgivenb/remixer)** — A local Windows and macOS producer workstation for waveform selection, musical analysis, machine-learning stem separation, and DAW-ready WAV export.
-- **[EasyMeter](https://github.com/bgivenb/EasyMeter)** — A C++/JUCE AU, VST3, and standalone metering suite with six real-time views, pass-through guarantees, cross-platform CI, and processor tests.
+- **[Remixer](https://github.com/bgivenb/remixer)** — A local desktop app demonstrating end-to-end product ownership across media analysis, machine-learning inference, packaging, and release engineering.
+- **[EasyMeter](https://github.com/bgivenb/EasyMeter)** — A C++/JUCE desktop plugin demonstrating real-time data visualization, pass-through guarantees, cross-platform CI, and native processor tests.
 
 ## What I work on
 
@@ -22,6 +24,5 @@ Most of my professional engineering work has lived in private company repositori
 ## Elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/givenborthwick)
-- [Given Peace audio tools](https://www.givenpeace.com/audio-tools)
+- [evryLO](https://evrylo.com)
 - [GitHub contact](https://github.com/bgivenb)
-
