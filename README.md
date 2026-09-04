@@ -1,29 +1,17 @@
 # Given Borthwick
 
-Engineering leader and hands-on product builder focused on AI-native fintech, developer platforms, and reliable production systems. I work where product judgment, technical architecture, regulated workflows, and accountable delivery meet.
+I'm an engineering leader building loan-officer tools at [evryLO](https://evrylo.com). My interests include AI workflows, developer tools, and reliable software.
 
-I currently build at **[evryLO](https://evrylo.com)**, creating loan-officer tools for the agentic era.
-
-Most of my professional engineering work has lived in private company repositories. The public repositories below are independent hobby projects—not employer or client code—and show how I explore, build, test, document, and ship software.
+Most of my professional work is private. These repositories contain independent projects and research.
 
 ## Selected public projects
 
-- **[Synode](https://github.com/bgivenb/synode)** — A governed multi-agent execution runtime with typed tools, policy gates, human approval, hybrid RAG and knowledge-graph retrieval, a durable PostgreSQL event/outbox layer, executable AWS CDK, replay, and evaluations.
-- **[Computer-Use Automation System](https://github.com/bgivenb/computer-use-automation)** — Turns a model-guided browser discovery run into a typed, reviewable capability, then replays it deterministically with policy guardrails, evidence, and same-session human handoff.
-- **[Remixer](https://github.com/bgivenb/remixer)** — A local desktop app demonstrating end-to-end product ownership across media analysis, machine-learning inference, packaging, and release engineering.
-- **[EasyMeter](https://github.com/bgivenb/EasyMeter)** — A C++/JUCE desktop plugin demonstrating real-time data visualization, pass-through guarantees, cross-platform CI, and native processor tests.
-
-## What I work on
-
-- AI agents, tool use, evaluation, guardrails, and human-in-the-loop workflows
-- Reliable production systems and developer or product platforms
-- Regulated workflows, traceability, and operational accountability
-- Cross-functional engineering leadership with hands-on architecture and implementation
-
-**Technology:** TypeScript, JavaScript, React, Node.js, Python, C++, SQL/PostgreSQL, APIs, AWS and cloud infrastructure, CI/CD, LLMs, and agent systems.
+- **[Synode](https://github.com/bgivenb/synode)** — Research into governed AI workflows, with human approvals, PostgreSQL-backed retrieval, and auditable execution.
+- **[Computer-Use Automation](https://github.com/bgivenb/computer-use-automation)** — Records model-guided browser workflows as typed artifacts for deterministic replay, with policy checks and human handoff.
+- **[Remixer](https://github.com/bgivenb/remixer)** — A desktop audio workstation for track analysis, local stem separation, and DAW-ready exports.
+- **[EasyMeter](https://github.com/bgivenb/EasyMeter)** — A real-time audio metering plugin for macOS and Windows.
 
 ## Elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/givenborthwick)
 - [evryLO](https://evrylo.com)
-- [GitHub contact](https://github.com/bgivenb)
