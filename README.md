@@ -1,5 +1,13 @@
 # Given Borthwick
 
+## Featured research: Synode
+
+**[Synode — Governed AI workflow runtime](https://github.com/bgivenb/synode)**
+
+Multi-agent execution, PostgreSQL/pgvector retrieval, AWS infrastructure, human approvals, and auditable replay.
+
+[Code](https://github.com/bgivenb/synode) · [Operations console](https://bgivenb.github.io/synode/) · [Architecture](https://github.com/bgivenb/synode#architecture)
+
 Engineering leader and hands-on product builder focused on AI-native fintech, developer platforms, and reliable production systems. I work where product judgment, technical architecture, regulated workflows, and accountable delivery meet.
 
 I currently build at **[evryLO](https://evrylo.com)**, creating loan-officer tools for the agentic era.
