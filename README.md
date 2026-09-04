@@ -8,6 +8,7 @@ Most of my professional engineering work has lived in private company repositori
 
 ## Selected public projects
 
+- **[Synode](https://github.com/bgivenb/synode)** — A governed multi-agent execution runtime with typed tools, policy gates, human approval, hybrid RAG and knowledge-graph retrieval, a durable PostgreSQL event/outbox layer, executable AWS CDK, replay, and evaluations.
 - **[Computer-Use Automation System](https://github.com/bgivenb/computer-use-automation)** — Turns a model-guided browser discovery run into a typed, reviewable capability, then replays it deterministically with policy guardrails, evidence, and same-session human handoff.
 - **[Remixer](https://github.com/bgivenb/remixer)** — A local desktop app demonstrating end-to-end product ownership across media analysis, machine-learning inference, packaging, and release engineering.
 - **[EasyMeter](https://github.com/bgivenb/EasyMeter)** — A C++/JUCE desktop plugin demonstrating real-time data visualization, pass-through guarantees, cross-platform CI, and native processor tests.
