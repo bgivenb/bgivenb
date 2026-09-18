@@ -1,5 +1,7 @@
 # Given Borthwick
 
+**[Read my resume](RESUME.md)**
+
 I'm an engineering leader building loan-officer tools at [evryLO](https://evrylo.com). My interests include AI workflows, developer tools, and reliable software.
 
 Most of my professional work is private. These repositories contain independent projects and research.
